@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GetPhoto</string>
+    <string name="your_image">your image</string>
+    <string name="text_main_choose_photo">Choose photo</string>
+</resources>
