@@ -2,4 +2,9 @@
     <string name="app_name">GetPhoto</string>
     <string name="your_image">your image</string>
     <string name="text_main_choose_photo">Choose photo</string>
+    <string name="settings_toolbar_menu">Settings</string>
+    <string name="add_contact_toolbar_menu">Add contact</string>
+    <string name="toolbar_favorites">Favorites</string>
+    <string name="give_feedback_toolbar_menu">Give feedback</string>
+    <string name="close_app_toolbar_menu">Close App</string>
 </resources>
